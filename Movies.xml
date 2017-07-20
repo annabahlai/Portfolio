@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<movies>
+    <name>King Arthur: Legend of the Sword</name>
+    <directed_by>Guy Ritchie</directed_by>
+    <genre>Adventure, Fantasy</genre>
+    <stars>Charlie Hunnam, Jude Law</stars>
+    <release_date>
+        <day>08</day>
+        <month>05</month>
+        <year>2017</year>
+    </release_date>
+
+    <name>Interstate 60: Episodes of The Road</name>
+    <directed_by>Bob Gale</directed_by>
+    <genre>Adventure, Fantasy</genre>
+    <stars>Gary Oldman</stars>
+    <release_date>
+        <day>14</day>
+        <month>10</month>
+        <year>2003</year>
+    </release_date>
+
+    <name>The Usual Suspects</name>
+    <directed_by>Bryan Singer</directed_by>
+    <genre>Crime, Thriller</genre>
+    <stars>Kevin Spacey</stars>
+    <release_date>
+        <day>16</day>
+        <month>08</month>
+        <year>1995</year>
+    </release_date>
+
+    <name>The Boy in the Striped Pyjamas</name>
+    <directed_by>Mark Herman</directed_by>
+    <genre>Drama</genre>
+    <stars>Asa Butterfield</stars>
+    <release_date>
+        <day>12</day>
+        <month>09</month>
+        <year>2008</year>
+    </release_date>
+
+    <name>The Truman Show</name>
+    <directed_by>Peter Weir</directed_by>
+    <genre>Drama</genre>
+    <stars>Jim Carrey</stars>
+    <release_date>
+        <day>01</day>
+        <month>06</month>
+        <year>1998</year>
+    </release_date>
+</movies>

@@ -1,0 +1,65 @@
+{
+    "movies" :
+        [
+            {
+                "name":"King Arthur: Legend of the Sword",
+                "directed_by":"Guy Ritchie",
+                "genre":"Adventure, Fantasy",
+                "stars":"Charlie Hunnam, Jude Law",
+                "release_date":
+                {
+                    "day" : "08",
+                    "month":"05",
+                    "year":"2017"
+                }
+            },
+            {
+                 "name":"Interstate 60: Episodes of The Road",
+                "directed_by":"Bob Gale",
+                "genre":"Adventure, Fantasy",
+                "stars":"Gary Oldman",
+                "release_date":
+                {
+                    "day" : "14",
+                    "month":"10",
+                    "year":"2003"
+                }
+            },
+             {
+                 "name":"The Usual Suspects",
+                "directed_by":"Bryan Singer",
+                "genre":"Crime, Thriller",
+                "stars":"Kevin Spacey",
+                "release_date":
+                {
+                    "day" : "16",
+                    "month":"08",
+                    "year":"1995"
+                }
+            },
+            {
+                 "name":"The Boy in the Striped Pyjamas",
+                "directed_by":"Mark Herman",
+                "genre":"Drama",
+                "stars":"Asa Butterfield",
+                "release_date":
+                {
+                    "day" : "12",
+                    "month":"09",
+                    "year":"2008"
+                }
+            },
+            {
+                 "name":"The Truman Show",
+                "directed_by":"Peter Weir",
+                "genre":"Drama",
+                "stars":"Jim Carrey",
+                "release_date":
+                {
+                    "day" : "01",
+                    "month":"06",
+                    "year":"1998"
+                }
+            }
+        ]
+}
